@@ -2,9 +2,8 @@
 title: Hello World!
 author: Annyeong1
 date: 2022-09-19 00:00:00 +0900
-categories: [other, meta]
+categories: [Other, meta]
 tags: [meta]
-pin: true
 math: true
 mermaid: true
 ---
